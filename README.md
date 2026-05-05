@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">hey there 👋I'm Hanzo Asashi</h1>
+<h1 align="center">hey there 👋I'm Hanitech Digital</h1>
 
 ###
 
